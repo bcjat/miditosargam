@@ -1,0 +1,21 @@
+{
+  "name": "miditosargam",
+  "version": "1.0.0",
+  "description": "Typescript library to convert MIDI files into indian music notations.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc"
+  },
+  "keywords": [],
+  "author": "Balvant Jat",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "@tonejs/midi": "^2.0.20",
+    "tone": "^13.8.25"
+  }
+}
