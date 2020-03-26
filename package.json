@@ -1,6 +1,6 @@
 {
   "name": "miditosargam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Typescript library to convert MIDI files into indian music notations.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
